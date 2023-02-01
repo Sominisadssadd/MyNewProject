@@ -6,11 +6,11 @@
     android:layout_height="match_parent"
     android:background="@color/purple_200"
     tools:context=".MainActivity">
-
+    <!--Change text hello world to my first github project-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="@string/textfortextview"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
