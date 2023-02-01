@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RoomDataBaseTest</string>
+    <string name="textfortextview">My first GitHub project</string>
 </resources>
